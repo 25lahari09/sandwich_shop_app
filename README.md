@@ -22,7 +22,7 @@ A simple **Streamlit app** to help customers build custom sandwich orders with e
    ```bash
    git clone https://github.com/25lahari09/sandwich_shop_app.git
    cd sandwich_shop_app
-Future Improvements
+# Future Improvements
 Add user authentication
 
 Save orders to a database
